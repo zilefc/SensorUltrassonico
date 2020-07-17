@@ -9,7 +9,6 @@
  Serial.begin(9600); 
  
  }
-ligada
  void loop()
  {
   float medida = ultrassom.Ranging(CM);
